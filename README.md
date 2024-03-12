@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JasurbekOripov
-- 👀 I’m interested in new technologies and i'm currently working on Android Development
+- 👀 I’m interested in new technologies, and I'm currently working on Android Development
 - 🌱 I’m currently learning jetpack compose
 - 💞️ I’m looking to collaborate on Commercial Projects
 - 📫 How to reach me jasurbekoripov2777@gmail.com or https://t.me/Oripov_Jasurbek
